@@ -1,0 +1,12 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 90vh;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 400px;
+}
